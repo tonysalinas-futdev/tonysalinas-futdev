@@ -1,5 +1,5 @@
 ## About Me 👋
-I am a Backend developer, specialized in building scalable and robust APIs by applying good development practices. I really enjoy software architecture , systems design, learning new things, and working on projects. Eduardo Camavinga and Kento Nanami enjoyer.
+I am a Backend Developer specialized in building scalable and robust APIs while applying clean architecture principles and software development best practices. I am passionate about software architecture, system design, and continuously learning new technologies. Currently, I am expanding my skill set by learning Angular to strengthen my full-stack development capabilities. I enjoy solving complex problems, working on meaningful projects, and creating maintainable and efficient software solutions.
 
 ## My Stack
 <p align="left">
